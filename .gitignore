@@ -1,0 +1,6 @@
+.DS_Store
+*.asv
+*.mex*
+RESULTS/
+DATA_REG.txt
+DATA_IMPREG.txt
